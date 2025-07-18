@@ -27,6 +27,7 @@ uvicorn main:app --reload
 ```
 
 ## Usage
+"its a demo-token"
 ```http
 GET /analyze/pharmaceuticals
 Header: token: "DEyZwVbMaSz0DMb7rSCRc1dKEGLwmKANWC7G"
